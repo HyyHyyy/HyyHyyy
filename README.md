@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bean - Phan Hoa Quốc Huy</h1>
-<h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
+<h3 align="center">**************************************************************</h3>
 
 ---
 
 - 🌱 I’m currently learning **React Native, Web Development, Flutter**
 - 👨‍💻 All of my projects are available at [github.com/HyyHyyy](https://github.com/HyyHyyy)
 - 💬 Ask me about **JavaScript, TypeScript, React**
-- 📫 How to reach me: **quochuy9275@gmail.com**  
+- 📫 How to reach me: **quochuy150303@gmail.com**  
 
 ---
 
