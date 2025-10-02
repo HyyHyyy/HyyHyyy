@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://facebook.com/Hyne15" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
 <a href="https://instagram.com/quochuy9275" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
